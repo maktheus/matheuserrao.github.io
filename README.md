@@ -39,5 +39,5 @@ This project is under the MIT license.
 
 ---
 
-Made with :coffee: and ♥ by Evoney.
+Made with :coffee: and ♥ by Uchoa.
 
